@@ -1,6 +1,6 @@
 ---
 title: "Teste: C?mara de Porto Belo aprova projeto de incentivo ao esporte"
-date: 2026-03-14T00:09:56.525Z
+date: 2026-03-14T00:11:10.397Z
 layout: post
 categories: [noticias, costa-esmeralda]
 tags: [porto-belo, bombinhas, itapema, pol?tica, esportes]
